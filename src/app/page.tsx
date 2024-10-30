@@ -13,7 +13,7 @@ export default function Home() {
             <label htmlFor="temps">Combien de temps voulez-vous y consacrer ?</label>
             <textarea id="temps"></textarea>
           </div>
-          <input type="submit"></input>
+          <input type="submit">Envoyer</input>
         </form>
       </main>
     </body>
